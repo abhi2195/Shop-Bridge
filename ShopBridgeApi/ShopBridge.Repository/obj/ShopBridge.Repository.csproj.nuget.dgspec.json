@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository\\ShopBridge.Repository.csproj": {}
+  },
+  "projects": {
+    "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Models\\ShopBridge.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Models\\ShopBridge.Models.csproj",
+        "projectName": "ShopBridge.Models",
+        "projectPath": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Models\\ShopBridge.Models.csproj",
+        "packagesPath": "C:\\Users\\PREETI\\.nuget\\packages\\",
+        "outputPath": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PREETI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository.Interfaces\\ShopBridge.Repository.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository.Interfaces\\ShopBridge.Repository.Interfaces.csproj",
+        "projectName": "ShopBridge.Repository.Interfaces",
+        "projectPath": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository.Interfaces\\ShopBridge.Repository.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\PREETI\\.nuget\\packages\\",
+        "outputPath": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PREETI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Models\\ShopBridge.Models.csproj": {
+                "projectPath": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Models\\ShopBridge.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository\\ShopBridge.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository\\ShopBridge.Repository.csproj",
+        "projectName": "ShopBridge.Repository",
+        "projectPath": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository\\ShopBridge.Repository.csproj",
+        "packagesPath": "C:\\Users\\PREETI\\.nuget\\packages\\",
+        "outputPath": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PREETI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Models\\ShopBridge.Models.csproj": {
+                "projectPath": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Models\\ShopBridge.Models.csproj"
+              },
+              "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository.Interfaces\\ShopBridge.Repository.Interfaces.csproj": {
+                "projectPath": "F:\\TechStore\\ShopBridge\\ShopBridgeApi\\ShopBridge.Repository.Interfaces\\ShopBridge.Repository.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
