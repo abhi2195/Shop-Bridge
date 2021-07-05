@@ -8,4 +8,3 @@
 
 #Thanks
 
-#@CopyRights Chirag Arora
